@@ -16,5 +16,5 @@ public class Gcd
 	}
 
 }
-//this is a gcd code
+
 
